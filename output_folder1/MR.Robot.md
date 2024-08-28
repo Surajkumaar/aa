@@ -1,6 +1,6 @@
-
+```
 sudo netdiscover -r 192.168.0.1/24
-
+```
 Result:
 
 Currently scanning: Finished!   |   Screen View: Unique Hosts                                         
