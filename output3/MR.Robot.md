@@ -15,6 +15,7 @@ Currently scanning: Finished!   |   Screen View: Unique Hosts
 ==192.168.0.6     08:00:27:3e:b3:75      1      60  PCS Systemtechnik GmbH ==
 
 Let's perform a NMAP aggressive scan,
+
 ```
  sudo nmap -A 192.168.0.6 
 ```
